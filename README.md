@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sirsha Dey
 - 👀 I’m interested to learn something new on Computer
-- 🌱 I’m currently studing - 1st year undergrad
+- 🌱 I’m currently studing - CS (Focusing on DSA) - 1st year undergrad
 - 📫You can reach me @Gmail @ deysirsha2468@google.com
 
 <!---
