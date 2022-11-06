@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirsha2468&label=Profile%20views&color=0e75b6&style=flat" alt="sirsha2468" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sirsha2468" alt="sirsha2468" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src = "img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-1,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
+<img align="right" alt="Coding" width="400" src = "https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-1,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 <p align="left"> <a href="https://twitter.com/deysirsha2468" target="blank"><img src="https://img.shields.io/twitter/follow/deysirsha2468?logo=twitter&style=for-the-badge" alt="deysirsha2468" /></a> </p>
 
 - 🌱 I’m currently learning **React, Django, C, C++**
