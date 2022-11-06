@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sirsha Dey</h1>
 <h3 align="center">A passionate Computer Geek from India</h3>
-
-<!-- <img align="right" alt="Coding" width="400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirsha2468&label=Profile%20views&color=0e75b6&style=flat" alt="sirsha2468" /> </p>
-
+<img align="right" alt="Coding" width="400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sirsha2468" alt="sirsha2468" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/deysirsha2468" target="blank"><img src="https://img.shields.io/twitter/follow/deysirsha2468?logo=twitter&style=for-the-badge" alt="deysirsha2468" /></a> </p>
