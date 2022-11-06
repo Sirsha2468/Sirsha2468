@@ -1,12 +1,7 @@
-<!---
-Sirsha2468/Sirsha2468 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 [![MasterHead](https://www.google.com/maps/uv?pb=!1s0x39f89f4d7954f32d%3A0x17d7e4a230ca653c!5sExcellence%20Computer%20Center!15sCgIgARICEAE)](https://Sirsha2468.io)
 <h1 align="center">Hi 👋, I'm Sirsha Dey</h1>
 <h3 align="center">A passionate Computer Geek from India</h3>
-<img allign="right" width = "420" src = "https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-1,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
+<img allign="right" width = "400" src = "https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-1,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirsha2468&label=Profile%20views&color=0e75b6&style=flat" alt="sirsha2468" /> </p>
 
