@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/maps/uv?pb=!1s0x39f89f4d7954f32d%3A0x17d7e4a230ca653c!5sExcellence%20Computer%20Center!15sCgIgARICEAE)]
+(https://Sirsha2468.io)
 <h1 align="center">Hi 👋, I'm Sirsha Dey</h1>
 <h3 align="center">A passionate Computer Geek from India</h3>
 <img allign="right" width = "400" src = "https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-1,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
