@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Front end development || C, C++ programming**
 
-- 📫 How to reach me **deysirsha2468@gmail.com**
+- 📫 Reach me @ **deysirsha2468@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
