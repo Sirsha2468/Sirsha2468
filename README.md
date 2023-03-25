@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src = "https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-1,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 <p align="left"> <a href="https://twitter.com/deysirsha2468" target="blank"><img src="https://img.shields.io/twitter/follow/deysirsha2468?logo=twitter&style=for-the-badge" alt="deysirsha2468" /></a> </p>
 
-- 🌱 I’m currently learning **React, Django, C, C++**
+- 🌱 I’m currently learning **Front end Web Development and core CS concepts**
 
 - 💬 Ask me about **Front end development || C, C++ programming**
 
